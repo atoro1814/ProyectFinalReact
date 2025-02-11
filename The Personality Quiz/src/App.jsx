@@ -131,30 +131,9 @@ function App() {
     },
     [currentQuestionIndex]
   );
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
- 
 
   return (
     <div>
-      
-
-      
-
-      
-      
 
       <Header/>
       <UserProvider>
